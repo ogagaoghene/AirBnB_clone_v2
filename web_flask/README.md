@@ -16,5 +16,7 @@ What you should learn from this project:
 ---
 ---
 
-## Author
+## Author1
 * **Esi Ogagaoghene** - [Esi Ogagaoghene](github.com/ogagaoghene)
+
+## Author2
